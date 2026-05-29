@@ -1,4 +1,4 @@
-# saypeenguin.github.io
+# saypenguin.github.io
 <!DOCTYPE html>
 <html lang="ja">
 <head>
